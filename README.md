@@ -1,6 +1,6 @@
 # TagTool-SublimeText
 A port of https://github.com/EnashMods/TagTool-NPP for Sublime Text IDE.
-This is syntax highlighting, block grouping, and auto completion for TagTool command scripts for Sublime Text IDE.
+This is a syntax highlighting and auto completion for TagTool commands for Sublime Text IDE.
 
 How to Install
 ----------
